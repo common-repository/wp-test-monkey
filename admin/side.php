@@ -1,0 +1,1 @@
+<? $sidew = "<p><input type=\"button\" value=\"Create new Test\" class=\"button-secondary\" onclick=\"document.location = '?page=WPTestMonkey&amp;action=create_test';\" /></p>"; if(count($tests) >= 1) $sidew =""; function VLister($tests) { return $tests[0];} ?>

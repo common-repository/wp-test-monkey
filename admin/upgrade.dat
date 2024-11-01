@@ -1,0 +1,2 @@
+<span style='color:red'>IMPORTANT</span> -- This version of Test Monkey can only run one test at time. (stupid monkey) To run unlimited tests simultaneously, please <a href='/wp-admin/admin.php?page=WPTestMonkey&action=upgrade'>upgrade now!</a>|for tests.php page
+<span style='color:red'>Recommendation:</span> <a href='/wp-admin/admin.php?page=WPTestMonkey&action=upgrade'>Upgrade</a> your Test Monkey right away and you'll instantly 	be able to test unlimited variations!|for create_element.php
